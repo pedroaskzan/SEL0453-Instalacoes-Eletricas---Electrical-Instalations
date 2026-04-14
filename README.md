@@ -1,5 +1,5 @@
 # SEL0453-Instalacoes-Eletricas---Electrical-Installations
-Electrical installations reports done in the discipline SEL0453. It was my first time doing it, we needed to follow steps and formulas while obeying the rule book NBR5410. Each report was about a section on designing the electrical installation of an industry of our choice. With autonomy, i did steps 2, 3 & 4 all by myself (except the AutoCAD), with support material. For the future, using Excel tools should help fasten up the processes in this work.
+Electrical installations reports done in the discipline SEL0453. It was my first time doing it, we needed to follow steps and formulas while obeying the rule book NBR5410. Each report was about a section on designing the electrical installation of an industry of our choice. With autonomy, i did steps 2, 3 & 4 all by myself (except the AutoCAD), with support material. For the future, using Excel tools should help fasten up the processes in the assignment, as well as making better looking and formated tables.
 
 In each step i show the main requirements to follow.
 
